@@ -1,4 +1,6 @@
 consumer_key: your_consumer_key
 consumer_secret: your_consumer_secret
+group_param: your_group
 email: your_youroom_email
 password: your_youroom_password
+dump: dump.txt
