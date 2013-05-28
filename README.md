@@ -15,4 +15,6 @@ vim conf/conf.yml
 bundle exec ruby bin/backup_youroom.rb
 ```
 4.output
+```
 ./dump.txt
+```
